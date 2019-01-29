@@ -1,4 +1,5 @@
 Just run this image and enjoy your failing container.
+
 For newbies:
 ```
 $ docker run pznamensky/fail:1.0

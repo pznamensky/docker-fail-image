@@ -6,6 +6,5 @@ ENV START_MSG=""
 
 COPY fail.sh /
 RUN chmod +x /fail.sh
-RUN ls /fail.sh
 
 ENTRYPOINT /fail.sh
